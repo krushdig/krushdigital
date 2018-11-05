@@ -1,0 +1,126 @@
+.mobilemenu{display:none !important;}
+#page:not(.vertical-header) #site-header.animated-header{position:fixed !important;}
+nav#primary-navigation ul li:hover a, ul.footer_menu li a:hover{color:#71f3d3 !important;}
+#site-header:not(.shrink) .header-colors-light:not(.header-layout-fullwidth_hamburger) #primary-menu.no-responsive > li:hover > a{}
+div#top-area{background:transparent;border:none;}
+.top-area{position:relative;top:15px;padding:0px !important;}
+nav#top-area-menu a{color:#fff;font-size:15px;font-family:'Aileron-Regular' !important;}
+nav#top-area-menu a img{margin-right:10px;}
+nav#top-area-menu a:before{display:none;}
+.request_call a{border:1px solid;padding:3px 10px;}
+#primary-navigation a{border:none !important;font-family:'rounded_eleganceregular' !important;font-size:18px !important;letter-spacing:1px;}
+h3.request_heading{background:#ed1f7f;color:#fff;text-align:center;padding:2% 0;border-radius:6px;}
+.wpcf7-form input[type='submit']{background-color:#ed1f7f !important;}
+.soc_icons a .socials-item-icon{border:2px solid #ed1f7f !important;}
+.aileronfont{font-family:'Aileron-Regular' !important;}
+p{color:#191919;}
+li{color:#191919;}
+h1, h2, h3, h4, h5, h6{font-family:'rounded_eleganceregular' !important;text-transform:capitalize !important;}
+.roundedfont{font-family:'rounded_eleganceregular' !important;}
+.font20 p{font-size:20px;}
+.font35 p{color:#ed1f7f;font-size:35px;line-height:1.5em;}
+.iconbox p{font-size:18px;}
+.iconbox img{margin-right:20px;}
+h2.processbottomheading{text-transform:none !important;padding:0 10%;}
+h2.lastsecpara, h2.cstm_capitalize{text-transform:none;}
+.whychooseus_column{border:1px solid #ffff;padding:3% 0;height:235px;}
+.process_heading{margin:0;}
+h2.latestwork_subheading{text-transform:none;letter-spacing:0;}
+.cstm_ourworkbtn a, .cstm_processbtn a, .cstm_abtbtn a{border-width:1px !important;font-size:16px;font-weight:600 !important;}
+.cstm_getintouchbtn a{border:1px solid #ed1f7f !important;font-size:16px;font-weight:600 !important;}
+h2.ctaheading{margin-bottom:0;}
+.gem-icon-inner a{width:150px;height:150px;position:absolute;left:0;z-index:99999999999999999999999999999999;}
+.block-content:last-of-type{padding-bottom:0;}
+#colophon{background:url(//www.krushdigital.co.uk/wp-content/uploads/2018/04/check_three_bg.png);padding-top:4% !important;background-size:100% 100% !important;}
+.site-footer .textwidget{text-align:center;}
+.site-footer .widget_text ul li{padding:20px 15px !important;border-bottom:none !important;width:unset !important;margin-top:15px;}
+#footer-nav{padding:10px 0 !important;border-top:1px solid #d6d6d6 !important;background:#eeeeee !important;}
+.site-footer .widget_text ul li:before{display:none;}
+@media (min-width:1000px){ul.footer_menu{padding:0 29% !important;}
+.whychooseus_column{width:20% !important;margin-right:5%;}
+.process_column:nth-child(1) .process_heading:before, .process_column:nth-child(4) .process_heading:after{display:none;}
+.process_heading:before{content:"-------";position:relative;left:-100px;color:#73f4d5;}
+.cstm_fourcols, .centermobile_row{width:100%;}
+}
+@media (max-width:320px){.cstm_abtbtn a{font-size:12px;}
+.quickfinder-item-text{font-size:15px !important;}
+}
+@media (max-width:420px){.mobilemenu{display:block !important;}
+.displaytable{display:table !important;}
+.displaytableheader{display:table-header-group !important;}
+.displaytablefooter{display:table-footer-group !important;}
+.shrink .site-logo img{width:100px !important;}
+.aboutusleftimg img{width:200px;}
+.menu-toggle span{background:#fff !important;}
+#primary-navigation a{text-align:center;}
+.mobile-menu-layout-default .primary-navigation.responsive ul > li.menu-item.menu-item-active a{color:#c42d79 !important;}
+.transparent-header-background{background-color:#fff !important;}
+button.menu-toggle.dl-trigger{background:#c42d79 !important;}
+.minisearch{display:none;}
+.gem-slideshow{margin-top:20% !important;}
+.title-h2{font-size:5.6vw !important;}
+#pagetitle{padding-top:0% !important;padding-bottom:8% !important;margin-top:1%;}
+#pagetitle .wpb_wrapper h2{font-size:40px !important;}
+.whychooseus_column{padding:8% 0;height:180px;}
+.knowmorebtn_row{padding-bottom:20%;}
+.site-footer .widget_text{margin:0;}
+.site-footer .widget_text ul li:first-child{padding-top:30px !important;}
+.site-footer .widget_text ul li{padding:0px 15px !important;border-bottom:none !important;width:100% !important;margin-top:15px;margin-left:0 !important;}
+.site-footer .widget_text ul li:last-child{padding-bottom:30px !important;}
+#footer-nav .col-md-4{margin:15px;}
+#colophon{background-size:cover !important;background-position:bottom left !important;}
+div#aboutblock1 .vc_column-inner, div#aboutblock2 .vc_column-inner, div#aboutblock3 .vc_column-inner, div#servicesblock1 .vc_column-inner, div#servicesblock2 .vc_column-inner, div#servicesblock3 .vc_column-inner, div#servicesblock4 .vc_column-inner, div#contactblock1 .vc_column-inner, div#contactblock2 .vc_column-inner, div#contactblock3 .vc_column-inner{padding-top:100px !important;padding-bottom:100px !important;}
+.pp_pic_holder.is-single.pp_default{left:0 !important;width:100% !important;}
+.pp_content{width:100% !important;height:250px !important;}
+img#fullResImage{height:258px !important;width:100% !important;}
+}
+@media (min-width:768px) and (max-width:979px){#pagetitle{padding-top:0% !important;padding-bottom:5% !important;}
+.container:before{margin-top:-16px !important;}
+.primary-navigation .dl-menu{opacity:1 !important;top:10px;left:unset !important;}
+#primary-navigation a{font-size:14px !important;}
+.iconbox p{font-size:14px;display:flex;}
+.cstm_fourcols, .centermobile_row{float:left;}
+.knowmorebtn_row{margin-top:0 !important;}
+.whychooseus_column{width:24% !important;margin-right:1%;}
+.cstm_styledbox h3, .cstm_styledbox2 h3{line-height:1.5em;}
+div#servicefirstrow{position:relative;top:48px;}
+.site-footer .widget_text{margin:0;}
+.site-footer .widget_text ul li:first-child{padding-top:30px !important;}
+.site-footer .widget_text ul li{padding:0px 15px !important;border-bottom:none !important;width:100% !important;margin-top:15px;}
+.site-footer .widget_text ul li:last-child{padding-bottom:30px !important;}
+#footer-nav .col-md-4{margin:15px;}
+}
+@media (max-width:1150px) and (min-width:980px){#pagetitle{padding-top:0% !important;padding-bottom:3% !important;margin-top:1%;}
+.container:before{margin-top:-16px !important;}
+.site-title .site-logo{float:left;}
+#site-header.fixed.shrink .header-main:not(.header-layout-fullwidth_hamburger) .site-title{display:block !important;}
+#site-header.fixed.shrink .site-title a img.default, #site-header.fixed.shrink .menu-item-logo a img.default{opacity:1 !important;padding-bottom:15px;}
+div#servicefirstrow{position:relative;top:45px;}
+.site-footer .widget_text{margin:0;}
+.site-footer .widget_text ul li:first-child{padding-top:30px !important;}
+.site-footer .widget_text ul li{padding:0px 15px !important;border-bottom:none !important;width:100% !important;margin-top:15px;}
+.site-footer .widget_text ul li:last-child{padding-bottom:30px !important;}
+p.footer_social{padding-top:25% !important;}
+nav#primary-navigation{display:table-cell !important;text-align:right !important;}
+.primary-navigation .dl-menu{position:absolute;left:100px;}
+.shrink ul#primary-menu{background:#fff;width:100%;position:absolute;right:0;}
+}
+@media (max-width:1199px){.row{margin-top:-2em !important;}
+}
+@media (max-width:1200px) and (min-width:1151px){div#servicefirstrow{top:30px;}
+}
+@media (min-width:1151px) and (max-width:1210px){.primary-navigation .dl-menu{position:absolute;left:400px;top:-85px;}
+}
+@media (max-width:750px) and (min-width:600px) and (orientation:landscape){.mobilemenu{display:block !important;}
+#primary-navigation a{text-align:center;}
+.site-footer .widget_text ul{margin-left:15% !important;}
+p.footer_social{padding-top:11% !important;}
+}
+@media (max-width:530px) and (min-width:421px){.site-footer .widget_text{margin:0;}
+.site-footer .widget_text ul li:first-child{padding-top:30px !important;}
+.site-footer .widget_text ul li{padding:0px 15px !important;border-bottom:none !important;width:100% !important;margin-top:15px;margin-left:0 !important;}
+.site-footer .widget_text ul li:last-child{padding-bottom:30px !important;}
+#footer-nav .col-md-4{margin:15px;}
+}
+@media (max-width:610px) and (min-width:580px){.footer_social{padding-top:12% !important;}
+}
